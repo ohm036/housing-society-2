@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\USER\\Desktop\\2104076\\housing-society-2\\HousingSociety\\HousingSociety.csproj": {}
+    "C:\\Users\\USER\\Desktop\\2104076\\housing-society-2\\HousingSociety\\HousingSociety.csproj": {}
   },
   "projects": {
-    "c:\\Users\\USER\\Desktop\\2104076\\housing-society-2\\HousingSociety\\HousingSociety.csproj": {
+    "C:\\Users\\USER\\Desktop\\2104076\\housing-society-2\\HousingSociety\\HousingSociety.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\USER\\Desktop\\2104076\\housing-society-2\\HousingSociety\\HousingSociety.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\2104076\\housing-society-2\\HousingSociety\\HousingSociety.csproj",
         "projectName": "HousingSociety",
-        "projectPath": "c:\\Users\\USER\\Desktop\\2104076\\housing-society-2\\HousingSociety\\HousingSociety.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\2104076\\housing-society-2\\HousingSociety\\HousingSociety.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\USER\\Desktop\\2104076\\housing-society-2\\HousingSociety\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\2104076\\housing-society-2\\HousingSociety\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

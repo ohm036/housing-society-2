@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\2104076\housing-society-2\HousingSociety\obj\Debug\net7.0\HousingSociety.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\2104076\housing-society-2\HousingSociety\obj\Debug\net7.0\HousingSociety.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\2104076\housing-society-2\HousingSociety\obj\Debug\net7.0\HousingSociety.AssemblyInfo.cs
+C:\Users\USER\Desktop\2104076\housing-society-2\HousingSociety\obj\Debug\net7.0\HousingSociety.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\2104076\housing-society-2\HousingSociety\bin\Debug\net7.0\HousingSociety.exe
+C:\Users\USER\Desktop\2104076\housing-society-2\HousingSociety\bin\Debug\net7.0\HousingSociety.deps.json
+C:\Users\USER\Desktop\2104076\housing-society-2\HousingSociety\bin\Debug\net7.0\HousingSociety.runtimeconfig.json
+C:\Users\USER\Desktop\2104076\housing-society-2\HousingSociety\bin\Debug\net7.0\HousingSociety.dll
+C:\Users\USER\Desktop\2104076\housing-society-2\HousingSociety\bin\Debug\net7.0\HousingSociety.pdb
+C:\Users\USER\Desktop\2104076\housing-society-2\HousingSociety\obj\Debug\net7.0\HousingSociety.dll
+C:\Users\USER\Desktop\2104076\housing-society-2\HousingSociety\obj\Debug\net7.0\refint\HousingSociety.dll
+C:\Users\USER\Desktop\2104076\housing-society-2\HousingSociety\obj\Debug\net7.0\HousingSociety.pdb
+C:\Users\USER\Desktop\2104076\housing-society-2\HousingSociety\obj\Debug\net7.0\HousingSociety.genruntimeconfig.cache
+C:\Users\USER\Desktop\2104076\housing-society-2\HousingSociety\obj\Debug\net7.0\ref\HousingSociety.dll
