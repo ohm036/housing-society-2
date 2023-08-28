@@ -28,6 +28,7 @@ namespace HousingSociety {
 
                 switch (choice) {
                     case 1:
+                        
                         continue;
                     case 2:
                         continue;
